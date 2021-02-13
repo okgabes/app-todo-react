@@ -1,4 +1,4 @@
-# app todo react
+# app todo react native
  app basico para lista de atividades
  
  1- use o comando "expo init tarefas" no cmd - aqui vc cria os arquivos basicos
